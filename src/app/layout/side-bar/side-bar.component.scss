@@ -1,0 +1,15 @@
+.pr-side-bar-wrapper {
+  height: 100%;
+  overflow: auto;
+  background: #f8f9fa;
+  transition: all 0.3s;
+}
+.pr-menu-grups {
+  padding: 12px;
+}
+.pr-menu-grups:first-child {
+  border-bottom: 1px solid #dee2e6;
+}
+.pr-menu-action {
+  text-align: right;
+}

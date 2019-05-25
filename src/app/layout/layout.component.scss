@@ -1,0 +1,12 @@
+.pr-after-header {
+  height: calc(100vh - 59px);
+}
+.pr-full-height-wrapper {
+  padding: 0px !important;
+  height: 100%;
+}
+.pr-content {
+  padding: 8px;
+  height: calc(100% - 59px);
+  overflow: auto;
+}
